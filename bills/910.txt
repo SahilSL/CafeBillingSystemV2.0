@@ -1,0 +1,33 @@
+		      --- Cafe Bill ---
+
+ Bill No.: 910
+
+ Customer Name: 5
+ Customer Phone Number: +91-5
+========================================================= Product 			 QTY 			Price
+=========================================================
+ French Fries			  1			  40
+ Sandwich			  1			  60
+ Burger			  1			  69
+ Pizza			  1			  90
+ Dessert			  1			  80
+ Pasta			  1			  60
+ Chicken Tikka			  1			  120
+ Chicken Angara			  1			  140
+ Paneer Tikka			  1			  100
+ Noodles			  1			  70
+ Manchurian			  1			  80
+ Aloo Tikki			  1			  70
+ Cocktail			  1			  60
+ Mojito			  1			  50
+ Pepsi			  1			  40
+ Sprite			  1			  40
+ Soda			  1			  30
+ Fruti			  1			  50
+---------------------------------------------------------
+ ATF Tax				47.879999999999995 Rs
+ Starter Tax				46.4 Rs
+ Drinks Tax				13.5 Rs
+
+ Total Bill 				 1356.7800000000002
+---------------------------------------------------------

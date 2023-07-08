@@ -1,0 +1,33 @@
+		      --- Cafe Bill ---
+
+ Bill No.: 997
+
+ Customer Name: hgvj
+ Customer Phone Number: +91-vgj
+========================================================= Product 			 QTY 			Price
+=========================================================
+ French Fries			  5463			  218520
+ Sandwich			  2			  120
+ Burger			  465			  32085
+ Pizza			  8465			  761850
+ Dessert			  18946			  1515680
+ Pasta			  5894			  353640
+ Chicken Tikka			  6589465			  790735800
+ Chicken Angara			  84651			  11851140
+ Paneer Tikka			  3654			  365400
+ Noodles			  321			  22470
+ Manchurian			  8465			  677200
+ Aloo Tikki			  8			  560
+ Cocktail			  465			  27900
+ Mojito			  8465			  423250
+ Pepsi			  846			  33840
+ Sprite			  54865			  2194600
+ Soda			  48651			  1459530
+ Fruti			  8465			  423250
+---------------------------------------------------------
+ ATF Tax				345827.39999999997 Rs
+ Starter Tax				64292205.6 Rs
+ Drinks Tax				228118.5 Rs
+
+ Total Bill 				 875962986.5
+---------------------------------------------------------
